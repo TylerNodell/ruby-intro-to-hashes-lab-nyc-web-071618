@@ -1,5 +1,5 @@
 def new_hash
-	new_hash = {memes: "LUL"}
+	new_hash = {}
 end
 
 def actor
